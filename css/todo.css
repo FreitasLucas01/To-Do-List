@@ -1,3 +1,15 @@
+.todo-container{
+    max-width: 450px;
+    margin: 3rem auto;
+    background: #fdfdfd;
+    padding: 1.5rem;
+    border-radius: 15px;
+}
+
+.todo-margin{
+    margin: 0 20px;
+}
+
 .todo{
     display: flex;
     justify-content: space-around;
