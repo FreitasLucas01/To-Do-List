@@ -11,7 +11,7 @@
 
 <h2 id="demo"> 📷 Demonstração </h2>
 
-<h2 align="center"> <img alt="Readme" title="Readme" IsAnimationPlaying="True" src="/img/1.gif"> </h2>
+<h2 align="center"> <img alt="Readme" title="Readme" src="/img/1.gif?raw=true"> </h2>
 <h2 align="center"> <img alt="Readme" title="Readme" src="/img/2.gif"> </h2>
 <h2 align="center"> <img alt="Readme" title="Readme" src="/img/3.gif"> </h2>
 <h2 align="center"> <img alt="Readme" title="Readme" src="/img/4.gif"> </h2>
